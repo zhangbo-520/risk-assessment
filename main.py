@@ -1,4 +1,4 @@
-"""SimGNN runner."""
+
 
 from utils import tab_printer
 from simgnn import SimGNNTrainer
